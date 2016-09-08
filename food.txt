@@ -6,3 +6,4 @@ curry
 food
 chicken
 tofu
+popsicle
