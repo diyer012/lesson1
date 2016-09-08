@@ -1,0 +1,9 @@
+vodka
+wine
+gin
+water
+coffee
+milk
+pepsi
+sprite
+whisky
